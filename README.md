@@ -1,27 +1,27 @@
-This is the Arte Lib, lua script.
+.This is the Arte Lib, lua script.
 <br>
-Version: 1
+.Version: 1
 <br>
-Functions:
+.Functions:
 <br>
- NewGui:
+. NewGui:
 <br>
-  Description:
+.  Description:
 <br>
-   This function creating a gui
+.   This function creating a gui
 <br>
-  Arguments:
+.  Arguments:
 <br>
-   Id - Gui name
+.   Id - Gui name
 <br>
-   Title - Gui Title
+.   Title - Gui Title
 <br>
-   Visible - Gui Enabled
+.   Visible - Gui Enabled
 <br>
- ConfigGui:
+. ConfigGui:
  <br>
-   Description:
+.   Description:
    <br>
-    Configing the Gui
+.    Configing the Gui
       <br>
       
