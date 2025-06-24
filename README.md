@@ -22,7 +22,7 @@
  <br>
 .   Description:
    <br>
-.    Configing the Gui
+.    Configing the Gui...
       <br>
       
 BRO, WHY SPACING IS NOT VISIBLE?????
