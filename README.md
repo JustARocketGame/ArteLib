@@ -1,7 +1,9 @@
-This is the Arte Lib, lua script
+This is the Arte Lib, lua script.
 <br>
 Version: 1
 <br>
+Functions:
 <br>
-
-##Aboba
+NewGui:
+<br>
+a
